@@ -33,7 +33,7 @@ const players = [
 
     {
         name: "Onana",
-        team: "Kano Pillars",
+        team: "Kano Pillar",
         nationality: "Nigeria",
         jerseyNumber: 1,
         age: 27,
